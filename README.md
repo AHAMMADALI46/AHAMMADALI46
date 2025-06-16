@@ -24,18 +24,6 @@ Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a 
 
 ---
 
-## 📺 YouTube Channel – *Trail Optima*
-
-I explain Clinical SAS concepts through real-world end-to-end dummy projects on my channel.  
-📌 **[Subscribe here »](https://www.youtube.com/@trailoptima)**  
-
-Topics include:
-- Clinical SAS projects from scratch  
-- SDTM / ADaM dataset creation  
-- TLF automation  
-- Python and R in clinical research  
-
----
 
 ## 📬 Let’s Connect
 
@@ -45,5 +33,5 @@ Topics include:
 
 ---
 
-Thanks for stopping by! ⭐️ Don’t forget to check out my pinned repositories and subscribe to my channel for ongoing clinical programming tutorials!
+Thanks for stopping by! ⭐️ 
 
