@@ -26,6 +26,7 @@ Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a 
 - 🤖 **Machine Learning**: Predictive analytics for patient outcomes
 - 🔄 **Version Control**: Git, GitHub
 - - 🔄 **CI/CD & Automation**: Azure DevOps, GitHub Actions, automated testing frameworks
+  - - ✅ **Data Quality & Validation**: Data integrity checks, regulatory compliance validation, quality assurance frameworks
 
 - ---
 
