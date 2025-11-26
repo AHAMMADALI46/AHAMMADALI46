@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a 
 - 📊 **Data Warehousing**: Star schema design, dimensional modeling
 - 🤖 **Machine Learning**: Predictive analytics for patient outcomes
 - 🔄 **Version Control**: Git, GitHub
+- - 🔄 **CI/CD & Automation**: Azure DevOps, GitHub Actions, automated testing frameworks
 
 - ---
 
