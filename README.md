@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Shaik
 
-Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a strong background in **Clinical SAS programming**, specializing in **CDISC standards (SDTM & ADaM)**, statistical reporting, and regulatory submissions. Currently transitioning into **Data Engineering** roles, leveraging my expertise in clinical data management with modern cloud technologies and big data platforms.
+Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a strong background in **Clinical SAS programming**, specializing in **CDISC standards (SDTM & ADaM)**, statistical reporting, and regulatory submissions. leveraging my expertise in clinical data management with modern cloud technologies and big data platforms.
 
 ---
 
