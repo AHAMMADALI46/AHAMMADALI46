@@ -58,7 +58,6 @@ Real-time analytics platform using Python, Spark, and ML for predictive patient 
 ## 📬 Let’s Connect
 
 - 📧 Email: **skalistats6@gmail.com**
-- 🌐 LinkedIn: [[Your LinkedIn Profile UR](https://www.linkedin.com/in/ali-sk-44195918/)L]
 - 💼 Open to collaborations in clinical data science, mentoring, or content creation
 - My Youtube channel: 🎥 [My YouTube Channel](https://www.youtube.com/@StatOptima)
 
