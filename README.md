@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a 
 
 - 🎓 **Master’s in Pharmaceutical Sciences**
 - 💼 7+ years of experience in the pharmaceutical and CRO industry
-- 🏢 Worked with top organizations like **IQVIA** and **Cytel**
 - 👨‍💻 Specialized in:
   - SDTM & ADaM dataset development
   - TLF (Tables, Listings, Figures) programming
