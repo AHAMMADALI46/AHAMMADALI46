@@ -1,20 +1,3 @@
-# 👋 Hi, I'm Ali Shaik
-
-Welcome to my GitHub! I'm a passionate **Senior Statistical Programmer** with a strong background in **Clinical SAS programming**, specializing in **CDISC standards (SDTM & ADaM)**, statistical reporting, and regulatory submissions. leveraging my expertise in clinical data management with modern cloud technologies and big data platforms.
-
----
-
-## 🔬 Professional Background
-
-- 🎓 **Master’s in Pharmaceutical Sciences**
-- 💼 7+ years of experience in the pharmaceutical and CRO industry
-- 👨‍💻 Specialized in:
-  - SDTM & ADaM dataset development
-  - TLF (Tables, Listings, Figures) programming
-  - Regulatory submission-ready datasets and define.xml
-  - Data review and validation processes
-
----
 
 ## 💻 Data Engineering & Cloud Skills
 
@@ -58,9 +41,7 @@ Real-time analytics platform using Python, Spark, and ML for predictive patient 
 ## 📬 Let’s Connect
 
 - 📧 Email: **skalistats6@gmail.com**
-- 💼 Open to collaborations in clinical data science, mentoring, or content creation
-- My Youtube channel: 🎥 [My YouTube Channel](https://www.youtube.com/@StatOptima)
-
+- 💼 Open to collaborations in clinical data science, mentoring, or content creation 
 ---
 
 Thanks for stopping by! ⭐️ 
