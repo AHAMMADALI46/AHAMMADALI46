@@ -1,8 +1,6 @@
 # Hi there, I'm Ali Ahammad Shaik 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AHAMMADALI46&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+
 
 <p align="center">
   <strong>Senior SAS Developer & Statistical Programmer | Clinical Data Validation Specialist</strong><br>
@@ -12,8 +10,7 @@
 <p align="center">
   <a href="mailto:omniskali@gmail.com"><img src="https://img.shields.io/badge/Email-omniskali%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/AHAMMADALI46"><img src="https://img.shields.io/badge/GitHub-AHAMMADALI46-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="tel:+14387636780"><img src="https://img.shields.io/badge/Phone-+1%20(438)%20763--6780-green?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
-</p>
+
 
 ---
 
